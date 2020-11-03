@@ -2,5 +2,8 @@
 #     print(f'Hi, {name}')
 #     if __name__ == '__main__':
 #         print_hi('PyCharm')
-def __main__():
+def hello():
     print(f'Hello world')
+
+
+hello()
