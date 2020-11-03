@@ -23,12 +23,12 @@
 # result = product(n1,n2)
 # print("\nResult is", result)
 #Range iteration
-def Ranged(number):
-    lastnumber = 0
-    for iteration in range(number):
-        sum = lastnumber + iteration
-        print(f"Our number,", iteration, "Last number,", lastnumber, "Sum", sum)
-        lastnumber = iteration
-n = 10
-print("Printing until", n,"the number and lastnumber and their sum \n")
-Ranged(n)
+# def Ranged(number):
+#     lastnumber = 0
+#     for iteration in range(number):
+#         sum = lastnumber + iteration
+#         print(f"Our number,", iteration, "Last number,", lastnumber, "Sum", sum)
+#         lastnumber = iteration
+# n = 10
+# print("Printing until", n,"the number and lastnumber and their sum \n")
+# Ranged(n)
